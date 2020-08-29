@@ -11,5 +11,5 @@ def my_collect(array)
 end
 
 my_collection(list) {|i| i.split(" ").first}
-  
+
   
